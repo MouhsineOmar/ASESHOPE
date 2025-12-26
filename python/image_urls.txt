@@ -1,0 +1,20 @@
+URLs d'images extraites (17 au total):
+==================================================
+
+  1. https://products-cdn.b-cdn.net/white-hoodie.jpeg
+  2. https://products-cdn.b-cdn.net/tshirt-white.jpg
+  3. https://products-cdn.b-cdn.net/shorts-black.jpeg
+  4. https://products-cdn.b-cdn.net/woman-black-shirt-giving-neutral-flirtatious-poses.jpg
+  5. https://products-cdn.b-cdn.net/shorts-denim.jpeg
+  6. https://codedev.b-cdn.net/tattooed-biker-hand-hold-tshirt.jpg
+  7. https://codedev.b-cdn.net/background.png
+  8. https://products-cdn.b-cdn.net/woman-holding-coffee-cup-smiling.jpg
+  9. https://products-cdn.b-cdn.net/tshirt-black.jpg
+ 10. https://products-cdn.b-cdn.net/hoodie-purple.jpg
+ 11. https://codedev.b-cdn.net/Onboarding-Preview.png
+ 12. https://products-cdn.b-cdn.net/sweatshirt-black.jpg
+ 13. https://products-cdn.b-cdn.net/jeans-blue.jpeg
+ 14. https://products-cdn.b-cdn.net/sweatshirt-crewneck.jpeg
+ 15. https://products-cdn.b-cdn.net/black-tshirt.jpeg
+ 16. https://products-cdn.b-cdn.net/crop-top-white.jpeg
+ 17. https://products-cdn.b-cdn.net/dress-white-leaves.jpg
